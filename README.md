@@ -22,7 +22,7 @@ Player-reidentification/ </br>
 ├── requirements.txt  _#Dependency list_ </br>
 └── README.md  _#Project overview_ </br>
 
-⚠️ **Note**: The model (`best.pt`) used for detection is proprietary and not included in this repository.
+⚠️ **Note**: The model used for detection is proprietary and not included in this repository.
 
 ## 📦 Requirements
 `` pip install -r requirements.txt ``
